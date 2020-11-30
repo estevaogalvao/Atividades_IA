@@ -1,1 +1,1 @@
-Segue atividades propostas pelo Professor Flavia. Cada diretório com seu READme exclusivo.
+Segue atividades propostas pelo Professor Flavio. Cada diretório com seu READme exclusivo.
